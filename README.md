@@ -4,7 +4,7 @@
 ---
 
 ## Algorithms Implemented till now:
-- [Binary Search](https://github.com/CoderTatva-2006/Algorithms/blob/master/BinarySearch.cs)
+- [Binary Search](https://github.com/CoderTatva-2006/Algorithms/blob/master/BinarySearch.cs)  , [Documentation](https://github.com/CoderTatva-2006/Algorithms/blob/master/docs/BinarySearch.pdf)
   
 ## Algorithms To be implemented:
 - Selection Sort
